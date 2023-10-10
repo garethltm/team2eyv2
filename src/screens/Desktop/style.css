@@ -1,0 +1,77 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-wrapper {
+  background-color: #ffffff;
+  height: 1024px;
+  width: 1440px;
+}
+
+.desktop .overlap-group {
+  height: 125px;
+  position: relative;
+}
+
+.desktop .group {
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .vector-wrapper {
+  background-color: #252525;
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .vector {
+  height: 35px;
+  left: 1378px;
+  position: absolute;
+  top: 45px;
+  width: 35px;
+}
+
+.desktop .div {
+  align-items: flex-start;
+  display: inline-flex;
+  height: 108px;
+  left: 395px;
+  position: absolute;
+  top: 8px;
+}
+
+.desktop .frame-7 {
+  border-bottom-style: solid !important;
+  border-color: #ffffff !important;
+  height: 116px !important;
+  margin-bottom: -8px !important;
+}
+
+.desktop .frame-instance {
+  color: #ffffff !important;
+  margin-top: unset !important;
+}
+
+.desktop .frame-7-instance {
+  height: 108px !important;
+}
+
+.desktop .cbs {
+  height: 94px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 134px;
+}
